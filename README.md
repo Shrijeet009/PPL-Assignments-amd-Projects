@@ -1,1 +1,1 @@
-# PPL-Assignments-amd-Projects
+# PPL-Assignments-and-Projects
